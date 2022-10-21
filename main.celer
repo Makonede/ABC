@@ -1,0 +1,12 @@
+_project:
+  authors:
+  - Makonede
+  description: "Any% with as few A presses as possible"
+  name: A Button Challenge
+  url: "https://github.com/Makonede/ABC"
+  version: "1.0.0"
+
+_route:
+- (==) Welcome to celer!
+- Hello World:
+  - My first line
