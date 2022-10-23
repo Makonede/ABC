@@ -13,8 +13,7 @@ _route:
       var-change:
         a: 1
       notes: "A press .!!(#.v(a)) - Press and release"
-  - .!!(SoR Clip):
-      icon: sor
+  - .!!(SoR Clip)
   - .dir(E>) to .loc(Boko Camp)
   - _Equipment::Shield<Pot Lid>:
       var-change:
